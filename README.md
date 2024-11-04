@@ -14,7 +14,7 @@ Welcome to the Assignment Templates & Guidelines repository! This repository off
 Browse the folders to find the resources you need. Each file provides instructions within, and you can download templates as `.docx` or `.pdf` files.
 
 ## ✉️ Contact Us
-For any questions or further assistance, reach out at support@onlineassignmenthelp.io.
+For any questions or further assistance, reach out at info@onlineassignmenthelp.io.
 
 ├── Templates/
 │   ├── Essays/
